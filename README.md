@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate frontend developer who loves creating projects :)</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pianka-pani-18&label=Profile%20views&color=0e75b6&style=flat" alt="pianka-pani-18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharkhatri434&label=Profile%20views&color=0e75b6&style=flat" alt="tusharkhatri434" /> </p>
 
 - 🔭 I’m currently working on **my portfolio**
 
