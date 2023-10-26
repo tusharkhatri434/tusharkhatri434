@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharkhatri434&show_icons=true&locale=en" alt="pianka-pani-18" /></p> -->
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com? tusharkhatri434=&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a> 
- [![GitHub Streak](https://streak-stats.demolab.com/?tusharkhatri434=DenverCoder1)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tusharkhatri434" alt="GitHub Streak" /></a>
