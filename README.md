@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking for job opportunities on **front-end development**
 
-- 👨‍💻 All of my projects are available at [https://tusharkhatri.netlify.app/](https://tusharkhatri.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://tusharkhatri.vercel.app/](https://tusharkhatri.vercel.app/)
 
 - 📫 How to reach me **tusharkhatri8193@gmail.com**
 
